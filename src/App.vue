@@ -1,8 +1,9 @@
 <template>
-  <p v-if="true">Text</p>
+  <div v-if="true"></div>
 </template>
+
 <script>
 export default {
-  name: 'HelloWorld'
+  name: 'App'
 };
 </script>
